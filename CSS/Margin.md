@@ -5,6 +5,33 @@
 - When you increase the blue box's margin, it will increase the distance between its border and surrounding elements.
 
 Reference-image: 
-![margin image][logo]
+![margin image][margin]
 
-[logo]: margin.png "Margin"
+[margin]: margin.png "Margin"
+
+
+- If you set an element's margin to a negative value, the element will grow larger.
+
+`
+.red-box {
+    background-color: crimson;
+    color: #fff;
+    padding: 20px;
+    margin: -15px;
+  }
+`
+
+`
+.blue-box {
+    background-color: blue;
+    color: #fff;
+    padding: 20px;
+    margin: 30px;
+  }
+`
+
+Reference-image: 
+![negative-margin image][negative-margin]
+
+[negative-margin]: negative-margin.png "Margin"
+
