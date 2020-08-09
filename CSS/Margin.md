@@ -4,6 +4,26 @@
 
 - When you increase the blue box's margin, it will increase the distance between its border and surrounding elements.
 
+`
+.red-box {
+    background-color: crimson;
+    color: #fff;
+    padding: 20px;
+    margin: 20pxpx;
+  }
+`
+
+`
+.blue-box {
+    background-color: blue;
+    color: #fff;
+    padding: 20px;
+    margin: 10px;
+  }
+`
+
+
+
 Reference-image: 
 ![margin image][margin]
 
@@ -26,7 +46,7 @@ Reference-image:
     background-color: blue;
     color: #fff;
     padding: 20px;
-    margin: 30px;
+    margin: 20px;
   }
 `
 
