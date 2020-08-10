@@ -9,4 +9,4 @@
 Reference-image: 
 ![padding image not loaded][Padding]
 
-[padding]: padding.png "padding of image"
+[padding]: images/padding.png "padding of image"
