@@ -27,7 +27,7 @@
 Reference-image: 
 ![margin image][margin]
 
-[margin]: margin.png "Margin"
+[margin]: images/margin.png "Margin"
 
 
 - If you set an element's margin to a negative value, the element will grow larger.
@@ -53,9 +53,11 @@ Reference-image:
 Reference-image: 
 ![negative-margin image][negative-margin]
 
-[negative-margin]: negative-margin.png "Margin"
+[negative-margin]: images/negative-margin.png "Margin"
 
 <br>
+
+-----------------------------------------------------------
 
 ### Clockwise Notation to Specify the Padding of an Element
 
